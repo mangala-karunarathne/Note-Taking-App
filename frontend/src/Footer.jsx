@@ -5,7 +5,7 @@ const curryear = new Date().getFullYear();
 function Footer() {
   return (
     <footer>
-      <p> Coppyright @ The Civil Today {curryear} </p>
+      <p > Coppyright @ The Civil Today {curryear} </p>
     </footer>
   );
 }

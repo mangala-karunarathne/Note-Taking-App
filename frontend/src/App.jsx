@@ -13,6 +13,16 @@ function App() {
       <Notes />
       <Notes />
       <Notes />
+      <Notes />
+      <Notes />
+      <Notes />
+      <Notes />
+      <Notes />
+      <Notes />
+      <Notes />
+      <Notes />
+      <Notes />
+      <Notes />
       <Footer />
      
     </div>

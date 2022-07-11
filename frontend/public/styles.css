@@ -25,11 +25,19 @@
   }
   
   footer {
-    position: absolute;
+    /* position: fixed;
     text-align: center;
     bottom: 0;
     width: 100%;
-    height: 2.5rem;
+    height: 2.5rem; */
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #f5ba13;
+   color: #fff;
+   text-align: center;
+}
   }
   
   footer p {
